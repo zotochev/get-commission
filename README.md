@@ -21,10 +21,11 @@ Tests include:
 ### Run tests
 **Using pip package manager install**
 1. Install dependencies
+**Using pip package manager**
 ```
 pip install -r requirements.txt
 ```
-**Using pipenv package manager install**
+**Using pipenv package manager**
 ```
 pipenv install
 ```
